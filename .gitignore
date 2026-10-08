@@ -1,0 +1,7 @@
+# Made from the ROM by tools/b2w2_pictures.py: Nintendo's and Game Freak's, never to be committed
+Graphics/
+*.nds
+*.png
+font.txt
+targets.txt
+__pycache__/

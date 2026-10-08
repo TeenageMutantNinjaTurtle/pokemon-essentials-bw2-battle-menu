@@ -1,0 +1,4 @@
+Name         = B2W2 Battle Screen
+Version      = 1.0
+Requires     = Elite Battle: DX
+Credits      = TeenageMutantNinjaTurtle
