@@ -98,7 +98,7 @@ From White 2, in single, double and triple battles:
 
 ## Licence
 
-No licence is granted for this code at present. It was written from the behaviour of Pokémon Black 2 and White 2,
-worked out with the help of a decompilation, and parts of it follow Pokémon Essentials (CC BY-NC-SA 4.0) and Elite
-Battle DX; under which terms it can be offered has not been settled. You may read it and use it with your own game
-at your own judgement.
+No licence is granted for this code. Its author claims no rights in it. Other projects and companies may hold
+rights in it or in what it was made from: it was written from the behaviour of Pokémon Black 2 and White 2
+(Nintendo, Creatures, Game Freak), worked out with the help of the pokebw2 decompilation, and parts of it follow
+Pokémon Essentials (CC BY-NC-SA 4.0) and Elite Battle DX. Use it at your own judgement.
